@@ -1,0 +1,4 @@
+﻿- Tạo domain mới trong controlpanel của CWP, check AutoSSL
+- Vultr add domain DNS
+- Cloudflare trỏ bản ghi A và CNAME về Vultr
+- Namecheap trỏ bản ghi về DNS của Cloudflare
